@@ -1,0 +1,53 @@
+body{
+    background-color: aqua;
+}
+    /* body  */
+    .box1{
+        background-color: orange;
+    }
+    /* head  */
+    .box2-1{
+        background-color: green;
+        height: 20vh;
+    }
+
+    /* main  */
+    .box2-2{
+        height: 60vh;
+    }
+        /* menu  */
+        .box3{
+            background-color: blue;
+        }
+        /* main info  */
+        .box4{
+            background-color: blueviolet;
+        }
+
+    /* info  */
+    .box2-3{
+        height: 10vh;
+    }
+        .box5{
+            background-color: brown;
+        }
+        .box6{
+            background-color: violet;
+        }
+        .box7{
+            background-color: yellow;
+        }
+        .box8{
+            background-color: red;
+        }
+        .box9{
+            background-color: cyan;
+        }
+        .box10{
+            background-color: grey;
+        }
+    /* footer  */
+    .box2-4{
+        height: 10vh;
+        background-color: black;
+    }
